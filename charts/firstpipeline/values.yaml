@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: 10.11.250.168:5000/joseblas/firstpipeline
-  tag: 0.0.2
+  tag: 0.0.3
   pullPolicy: IfNotPresent
 
 # define environment variables here as a map of key: value
